@@ -1,0 +1,29 @@
+{
+  "name": "warcraft-map-compile-utility",
+  "version": "0.0.1-alpha",
+  "description": "A Compile Utility for WarCraft III Map Modding.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LazyKnightX/warcraft-map-compile-utility.git"
+  },
+  "keywords": [
+    "warcraft3",
+    "compiler",
+    "xlsx",
+    "gamedev",
+    "datamanagement"
+  ],
+  "author": "Lazy Knight (LazyKnightX)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LazyKnightX/warcraft-map-compile-utility/issues"
+  },
+  "homepage": "https://github.com/LazyKnightX/warcraft-map-compile-utility#readme",
+  "dependencies": {
+    "xlsx": "^0.14.3"
+  }
+}
